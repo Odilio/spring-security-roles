@@ -1,4 +1,6 @@
 # spring-security-roles
 
-My Personal Blog
+As collections pra teste se encontram na pasta resources, que fica na raiz do projeto
+
+Meu blog pesssoal 
 https://medium.com/rapaduratech
